@@ -29,10 +29,10 @@ Each scenario folder contains videos, extracted frames, annotations, or processe
 
 ## 📷 Image Descriptions
 
-- ![AV with GoPro setup](images/AV_goPro.jpeg)
+- ![AV with GoPro setup](Devices/AV_goPro.jpeg)
   Shows the **Autonomous Vehicle (AV) setup with the GoPro camera mounted** for forward-facing road capture.
 
-- ![GoPro camera](images/GoPro.jpeg)
+- ![GoPro camera](Devices/GoPro.jpeg)
   Shows the **GoPro camera device alone**, used in the AV setup.
 
 These images are provided to visually document the experimental setup.
