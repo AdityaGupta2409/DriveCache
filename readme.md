@@ -35,8 +35,6 @@ For each scenario:
 - YOLO inference was executed on **each extracted frame**.
 - Due to **space constraints** , we include **only a subset of frames/results** in this repository.
 
-📌 **Full dataset (all videos/frames/outputs) will be uploaded after the anonymity constraint is removed.**
-
 ---
 
 ## 📊 Similarity Results (Bhattacharyya)
